@@ -7,6 +7,7 @@
 		"sampctl/samp-stdlib",
 		"pBlueG/SA-MP-MySQL:R41-4",
 		"samp-incognito/samp-streamer-plugin",
+		"katursis/Pawn.RakNet",
 		"pawn-lang/YSI-Includes",
 		"urShadow/Pawn.CMD",
 		"aktah/easyDialog",
